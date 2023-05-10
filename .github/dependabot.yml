@@ -4,25 +4,28 @@ updates:
   directory: "/"
   schedule:
     interval: daily
-    time: "15:25"
+    time: "15:43"
     timezone: America/Sao_Paulo
   labels:
   - automerge
+  - run-ci
 
 - package-ecosystem: npm
   directory: "/"
   schedule:
     interval: daily
-    time: "15:25"
+    time: "15:43"
     timezone: America/Sao_Paulo
   labels:
   - automerge
+  - run-ci
 
 - package-ecosystem: "github-actions"
   directory: "/"
   schedule:
     interval: daily
-    time: "15:25"
+    time: "15:43"
     timezone: America/Sao_Paulo
   labels:
-  - automerge
+  - automerge 
+  - run-ci
