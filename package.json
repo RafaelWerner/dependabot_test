@@ -50,7 +50,7 @@
     "simplebar": "^6.2.4",
     "stimulus-autocomplete": "^3.1.0",
     "swiper": "^9.2.0",
-    "tinymce": "^6.4.1",
+    "tinymce": "^6.4.2",
     "typed.js": "^2.0.132"
   },
   "devDependencies": {
