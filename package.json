@@ -17,8 +17,8 @@
     "chart.js": "^4.2.1",
     "chartkick": "^5.0.1",
     "choices.js": "^10.2.0",
-    "countup.js": "^2.6.0",
-    "d3": "^7.8.3",
+    "countup.js": "^2.6.2",
+    "d3": "^7.8.4",
     "datatables.net-bs5": "^1.13.4",
     "datatables.net-fixedcolumns": "^4.2.2",
     "dayjs": "^1.9.1",
@@ -50,12 +50,12 @@
     "simplebar": "^6.2.4",
     "stimulus-autocomplete": "^3.1.0",
     "swiper": "^9.3.1",
-    "tinymce": "^6.4.1",
+    "tinymce": "^6.4.2",
     "typed.js": "^2.0.132"
   },
   "devDependencies": {
     "standard": "^17.0.0",
-    "webpack-dev-server": "^4.13.2"
+    "webpack-dev-server": "^4.15.0"
   },
   "scripts": {
     "lint": "yarn standard"
