@@ -4,7 +4,7 @@ updates:
   directory: "/"
   schedule:
     interval: daily
-    time: "15:43"
+    time: "16:55"
     timezone: America/Sao_Paulo
   labels:
   - automerge
@@ -14,7 +14,7 @@ updates:
   directory: "/"
   schedule:
     interval: daily
-    time: "15:43"
+    time: "16:55"
     timezone: America/Sao_Paulo
   labels:
   - automerge
@@ -24,7 +24,7 @@ updates:
   directory: "/"
   schedule:
     interval: daily
-    time: "15:43"
+    time: "16:55"
     timezone: America/Sao_Paulo
   labels:
   - automerge 
