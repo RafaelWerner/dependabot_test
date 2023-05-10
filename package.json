@@ -18,7 +18,7 @@
     "chartkick": "^5.0.1",
     "choices.js": "^10.2.0",
     "countup.js": "^2.6.0",
-    "d3": "^7.8.3",
+    "d3": "^7.8.4",
     "datatables.net-bs5": "^1.13.4",
     "datatables.net-fixedcolumns": "^4.2.2",
     "dayjs": "^1.9.1",
@@ -55,7 +55,7 @@
   },
   "devDependencies": {
     "standard": "^17.0.0",
-    "webpack-dev-server": "^4.13.2"
+    "webpack-dev-server": "^4.15.0"
   },
   "scripts": {
     "lint": "yarn standard"
