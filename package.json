@@ -33,7 +33,7 @@
     "inputmask": "^5.0.8",
     "is_js": "^0.9.0",
     "jquery": "^3.6.4",
-    "leaflet": "^1.6.0",
+    "leaflet": "^1.9.4",
     "leaflet.markercluster": "^1.5.0",
     "leaflet.tilelayer.colorfilter": "^1.2.5",
     "list.js": "^2.3.1",
