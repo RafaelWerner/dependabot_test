@@ -8,7 +8,7 @@
     "@joeattardi/emoji-button": "^4.1.0",
     "@popperjs/core": "^2.11.7",
     "@rails/request.js": "^0.0.8",
-    "@rails/ujs": "^7.0.4",
+    "@rails/ujs": "^7.0.5",
     "@rails/webpacker": "^5.4.4",
     "@shopify/draggable": "^1.0.0-beta.8",
     "anchor-js": "^5.0.0",
