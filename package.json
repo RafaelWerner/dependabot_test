@@ -6,7 +6,7 @@
     "@hotwired/stimulus-webpack-helpers": "^1.0.1",
     "@hotwired/turbo-rails": "^7.3.0",
     "@joeattardi/emoji-button": "^4.1.0",
-    "@popperjs/core": "^2.11.7",
+    "@popperjs/core": "^2.11.8",
     "@rails/request.js": "^0.0.8",
     "@rails/ujs": "^7.0.4",
     "@rails/webpacker": "^5.4.4",
